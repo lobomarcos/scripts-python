@@ -1,7 +1,0 @@
-nome = input ('Qual o seu nome?')
-print ('Olá,' + nome+',' + ' prazer em conhecer você!')
-idade = input ('Qual sua idade?')
-print ('O tempo passa né...' + idade +'... Estamos ficando velhos!')
-peso = input ('Quanto você pesa?')
-print (peso + ' de muito músculo!')
-print ('Bom... então, boas vindas ao Python,'+nome+','+'espero que você não desista.'  )
