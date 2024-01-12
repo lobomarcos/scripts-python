@@ -1,0 +1,5 @@
+dia = input ('Em que dia você nasceu?')
+mes = input ('Ok, mas dia ' + dia + ' de qual mês? Digite apenas números, ainda não consigo formatar textos.')
+ano = input ('Mas qual seria o ano?')
+confirmação = input ('Aaaah sim, então você nasceu em ' +dia+'/'+mes+'/'+ano+'?')
+print ('Ok, você fez um bom trabalho hoje. vai descansar!')
